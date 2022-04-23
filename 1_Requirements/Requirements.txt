@@ -1,0 +1,7 @@
+Requirements 
+===============
+ 1) atmega 328p
+ 2) led's
+ 3) connecting wires 
+ 4) simuleide software
+ 5) atmel studio 
